@@ -24,10 +24,6 @@ Edit
 - **ProductList**: Maps over product data and renders `ProductItem` components.
 - **ProductItem**: Displays individual product details (name, price, description).
 
-## 🖼️ Screenshot
-
-![screenshot](screenshot.png)
-
 ## 🛠️ Tech Stack
 
 - React + Vite
@@ -77,13 +73,6 @@ Then visit: http://localhost:5173
  Custom CSS layout and styling
 
  Fully responsive design
-
-🌟 Bonus Opportunities
-Add product images
-
-Add category filtering
-
-Include quantity or rating UI elements
 
 👨‍💻 Author
 Duncan Hecker
